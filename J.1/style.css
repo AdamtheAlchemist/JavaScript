@@ -1,0 +1,19 @@
+.heading{
+    font-weight: lighter;
+    color: darkgoldenrod;
+}
+
+.gameboard{
+    background-color: blanchedalmond;
+    text-align: center;
+    border: 3px;
+    border-style: solid;
+    border-color : darkgoldenrod;
+}
+
+.button{
+    background-color: darkgoldenrod; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+}
